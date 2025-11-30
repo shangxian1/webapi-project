@@ -21,16 +21,18 @@ I want to build this web application to allow users to discover new music, searc
 10. Favourite songs
 
 ## External API(s) that you would like to use
-1. Spotify API
-Reference: [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-2. Spotify Scraper API
-Reference: [Spotify Scraper](https://rapidapi.com/DataFanatic/api/spotify-scraper)
-<br> 
+1. Spotify API 
+<br> - Reference: [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+2. Spotify Scraper API 
+<br> - Reference: [Spotify Scraper](https://rapidapi.com/DataFanatic/api/spotify-scraper)
+
 ## Additional node modules that you would like to use
-Describe any node modules that you would like to use or have used in the current stage of the project.<br>
+Axios
 <br>
 ## References
-Put all the reference links where you have used for your project<br>
+[Spotify Web API](https://developer.spotify.com/documentation/web-api) <br>
+[Spotify Scraper](https://rapidapi.com/DataFanatic/api/spotify-scraper) <br>
+[axios](https://www.npmjs.com/package/axios)
 <br>
 <br>
 :warning: This repository includes gitignore file which will not commit certain files or folders (especially node_modules folder) for a node.js project into the repository.  
