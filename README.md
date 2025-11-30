@@ -1,18 +1,31 @@
 # WAD Project
-Name:  <br>
-Module Group: <br>
+Name:  Shang Xian <br>
+Module Group: L2 <br>
 <br> 
 ## Project Title
-Please give a meaningful name for your application. <br>
+MusicCloud <br>
 <br> 
 ## Background
-Why do you want to build this web application? <br>
+I want to build this web application to allow users to discover new music, search for tracks, view artists and album information, manage their playlists and save their favourite songs. By integrating Spotify API with a lyrics API, users can easily discover and explore new music through this web application. <br>
 <br>
 ## Key Features
-Write down clearly what are the things the user can perform with your web application.<br>
+1. User registration
+2. User login
+3. User logout
+4. Create playlists
+5. Retrieve playlists
+6. Update playlists
+7. Delete playlists
+8. Search playlists by name
+9. Add / remove songs from playlists
+10. Favourite songs
+<br>
 <br> 
 ## External API(s) that you would like to use
-Describe which external APIs that you would like to use and how you would use them. Put the reference links where you found the APIs.<br>
+1. Spotify API
+Reference: [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+3. Spotify Scraper API
+Reference: [Spotify Scraper](https://rapidapi.com/DataFanatic/api/spotify-scraper)
 <br> 
 ## Additional node modules that you would like to use
 Describe any node modules that you would like to use or have used in the current stage of the project.<br>
