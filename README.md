@@ -18,8 +18,7 @@ I want to build this web application to allow users to discover new music, searc
 7. Delete playlists
 8. Search playlists by name
 9. Add / remove songs from playlists
-10. Favourite songs
-<br>
+10. Favourite songs<br>
 <br> 
 ## External API(s) that you would like to use
 1. Spotify API
