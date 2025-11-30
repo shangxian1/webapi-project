@@ -3,10 +3,10 @@ Name:  Shang Xian <br>
 Module Group: L2 <br>
 <br> 
 ## Project Title
-MusicCloud <br>
+MusicCloud - A Spotify-Integrated web application <br>
 <br> 
 ## Background
-I want to build this web application to allow users to discover new music, search for tracks, view artists and album information, manage their playlists and save their favourite songs. By integrating Spotify API with a lyrics API, users can easily discover and explore new music through this web application. <br>
+I want to build this web application to allow users to discover new music, search for tracks, view artists and album information, manage their playlists and save their favourite songs. By integrating Spotify API with Spotify Scraper API, users can easily discover and explore new music through this web application. <br>
 <br>
 ## Key Features
 1. User registration
@@ -18,12 +18,12 @@ I want to build this web application to allow users to discover new music, searc
 7. Delete playlists
 8. Search playlists by name
 9. Add / remove songs from playlists
-10. Favourite songs <br>
-<br> 
+10. Favourite songs
+
 ## External API(s) that you would like to use
 1. Spotify API
 Reference: [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-3. Spotify Scraper API
+2. Spotify Scraper API
 Reference: [Spotify Scraper](https://rapidapi.com/DataFanatic/api/spotify-scraper)
 <br> 
 ## Additional node modules that you would like to use
