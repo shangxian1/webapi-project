@@ -23,15 +23,15 @@ I want to build this web application to allow users to discover new music, searc
 ## External API(s) that you would like to use
 1. Spotify API 
 <br> - Reference: [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-2. Spotify Scraper API 
-<br> - Reference: [Spotify Scraper](https://rapidapi.com/DataFanatic/api/spotify-scraper)
+2. Lyrics API 
+<br> - Reference: [lyrics.ovh](https://lyricsovh.docs.apiary.io/#)
 
 ## Additional node modules that you would like to use
 Axios
 <br>
 ## References
 [Spotify Web API](https://developer.spotify.com/documentation/web-api) <br>
-[Spotify Scraper](https://rapidapi.com/DataFanatic/api/spotify-scraper) <br>
+[lyrics.ovh](https://lyricsovh.docs.apiary.io/#) <br>
 [axios](https://www.npmjs.com/package/axios)
 <br>
 <br>
