@@ -27,13 +27,13 @@ I want to build this web application to allow users to discover new music, searc
 <br> - Reference: [lyrics.ovh](https://lyricsovh.docs.apiary.io/#)
 
 ## Additional node modules that you would like to use
-Axios
+Axios <br>
 dotenv
 <br>
 ## References
 [Spotify Web API](https://developer.spotify.com/documentation/web-api) <br>
 [lyrics.ovh](https://lyricsovh.docs.apiary.io/#) <br>
-[axios](https://www.npmjs.com/package/axios)
+[axios](https://www.npmjs.com/package/axios) <br>
 [dotenv](https://www.npmjs.com/package/dotenv)
 <br>
 <br>
